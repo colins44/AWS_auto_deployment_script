@@ -1,0 +1,5 @@
+#AWS keys
+.keys.py
+
+#pyc files
+*.pyc
